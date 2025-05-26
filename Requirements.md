@@ -1,6 +1,6 @@
-##REQUISÍTIOS FUNCIONAIS 
 
 #RF01 Criação de Contas 
+Possibilitar a criação de contas dos usuários do banco
 
 #RF02 Depósitos 
 
@@ -33,8 +33,6 @@
 #RF16 Categorização do dinheiro 
 
  
-
-##REQUISITOS NÃO FUNCIONAIS 
 
 #RFN01 Responsividade 
 
