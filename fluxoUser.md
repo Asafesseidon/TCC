@@ -57,4 +57,5 @@ Uma vez feito o investimento serão descontados automaticamente um imposto 10% e
 ## Automatização de pagamentos
 O usuário pode definir uma data de início para um pagamento regular de n em n dias que será executado de forma automática no servidor.
 
-##
+## Categorização do unidade monetária
+Na hora de usar seu dinheiro o usuário pode requisitar dividir seu dinheiro em i partes de n% de seu montante total, tendo seu valor exibido de forma dividida em categorias.
