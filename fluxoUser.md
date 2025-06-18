@@ -19,4 +19,5 @@ Uma vez que o usuário pedir a transferência para uma outra conta.
 Será requisitado a chave da conta da conta para a qual será feita a transferência, a senha da conta do usuário, então sera checado os dados de tranferência , e caso não tenha nenhum problema nos dados será enviado o dinheiro do remente ao destinatário.
 
 ## Investimentos em cafezais
-Os investimentos em cafezais serão pautados em fundos imobiliários cadastrados por .
+Os investimentos em fazendas serão pautados em fundos imobiliários cadastrados por donos de fazendas de café através do sistema do banco.
+Terá uma aba a qual será exibidido todos os investimentos podendo ser filtrado por preço, aluguel relativo(%), aluguel fixo($), m equivalente 
