@@ -48,3 +48,6 @@ Uma vez requisitado o saldo o usuário será exibido em gráfico de acordo com o
 O usuário poderá pedir para pegar um empréstimo com o banco negociando um valor, número de parcelas, intervalo das parcelas.
 O gerente mandará a verificação para o backend e, quando verificado, e aprovado, será calculado o valor total e de cada parcela.
 
+## Notificação via email
+O usuário, uma vez cadastro o email vinculado a conta, será notificado de cada transação realizada em sua conta pelo email.
+
