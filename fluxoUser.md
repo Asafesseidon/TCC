@@ -43,3 +43,8 @@ O gerente pesquisará por agência, numero de conta, nome, nível de movimento b
 ## Supervisionamento do saldo de café
 O usuário poderá requisitar a visualização de seu saldo ao longo do tempo filtrando por tempo, valor, destinatário ou remetente.
 Uma vez requisitado o saldo o usuário será exibido em gráfico de acordo com os dados requisitados pelo usuário.
+
+## Empréstimos
+O usuário poderá pedir para pegar um empréstimo com o banco negociando um valor, número de parcelas, intervalo das parcelas.
+O gerente mandará a verificação para o backend e, quando verificado, e aprovado, será calculado o valor total e de cada parcela.
+
