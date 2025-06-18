@@ -25,24 +25,21 @@ Alteração e gerenciamentos das senhas de login daquela conta
 
 # RF09 Buscar consultar usuários 
 
-# RF10 Gerenciamento de usuário 
-Criação, alteração ou exclusão dos logins naquela conta 
-
-# RF11 Supervisionamento do saldo de café
+# RF10 Supervisionamento do saldo de café
 Supervisão do gasto do seu café ao longo do tempo
 
 
-# RF12 Empréstimos 
+# RF11 Empréstimos 
 Realização de empréstimos através do banco
 
-# RF13 Notificação via email 
+# RF12 Notificação via email 
 Notificar os usuários envolvidos em uma transação quando ela é realizada, via mensagens ao e-mail de ambas as partes
 
-# RF14 Desconto automático de imposto 
+# RF13 Desconto automático de imposto 
 
-# RF15 Automatização de pagamentos 
+# RF14 Automatização de pagamentos 
 
-# RF16 Categorização do unidade monetária
+# RF15 Categorização do unidade monetária
 Divisão dos gastos do seu dinheiro em porções nomeadas e com porcentagens do seu café
 
  ## Requisitos não-funcionais
