@@ -22,3 +22,6 @@ Será requisitado a chave da conta da conta para a qual será feita a transferê
 Os investimentos em fazendas serão pautados em fundos imobiliários cadastrados por donos de fazendas de café através do sistema do banco.
 Terá uma aba a qual será exibidido todos os investimentos podendo ser filtrado por preço, aluguel relativo(%), aluguel fixo($), hectares equivalente, nome do produtor e/ou região.
 Nessa aba o usuário poderá escolher o investimento o qual deseja, e vizualizar as informações do fundo.
+
+## Gerenciamento via Admin
+O gerente poderá fazer o gerenciamento de outros admin, e de usuário podendo executar o cancelamento de contas, edição de contas, e cadastramento de contas.
