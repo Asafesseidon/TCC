@@ -21,6 +21,7 @@ Será requisitado a chave da conta da conta para a qual será feita a transferê
 ## Cadastro de investimentos pelos donos de cafezais
 O agricultor poderá ir a uma agência e solicitar a um gerente o cadastramento de um novo investimento de fundo imobiliário atrelado a sua fazenda.
 Ocorrerá logo em seguida a verificação de seus dados, se o dono de cafezal possuir pagamentos de investimentos pendentes, todo o seu lote dividido em fundos, pagamentos de dividados atrasados ou uma movimentação bancária de menos de 1000000 CFS ele não poderá cadastrar um investimento.
+Serão requisitado os dados do número da conta do produtor, o intervalo de pagamento, quantos ativos serão, e qual a área que será dividida entre os fundos imobiçiários.
 
 ## Investimentos em cafezais
 Os investimentos em fazendas serão pautados em fundos imobiliários cadastrados por donos de fazendas de café através do sistema do banco.
@@ -38,3 +39,7 @@ E por fim, será requisitado, qual senha o usuário quer alterar junto com a nov
 ## Buscar e consultar usuários
 O gerente poderá buscar e visualizar as informações dos usuário.
 O gerente pesquisará por agência, numero de conta, nome, nível de movimento bancário e/ou CPF, mostrando então todos os usuário com aquelas características.
+
+## Supervisionamento do saldo de café
+O usuário poderá requisitar a visualização de seu saldo ao longo do tempo filtrando por tempo, valor, destinatário ou remetente.
+Uma vez requisitado o saldo o usuário será exibido em gráfico de acordo com os dados requisitados pelo usuário.
