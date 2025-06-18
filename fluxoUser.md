@@ -52,4 +52,4 @@ O gerente mandará a verificação para o backend e, quando verificado, e aprova
 O usuário, uma vez cadastro o email vinculado a conta, será notificado de cada transação realizada em sua conta pelo email.
 
 ## Desconto automático de imposto
-Uma vez feito o investimento serão descontados automaticamente um imposto 10% e 3% de taxa do banco toda vez que o usuário receber ou fizer algum pagamento de investimento.
+Uma vez feito o investimento serão descontados automaticamente um imposto 10% e (lim x->∞ Σ i=0->i=x 9/(10**i))% de taxa do banco toda vez que o usuário receber ou fizer algum pagamento de investimento.
