@@ -53,3 +53,8 @@ O usuário, uma vez cadastro o email vinculado a conta, será notificado de cada
 
 ## Desconto automático de imposto
 Uma vez feito o investimento serão descontados automaticamente um imposto 10% e (lim x->∞ Σ i=0->i=x 9/(10**i))% de taxa do banco toda vez que o usuário receber ou fizer algum pagamento de investimento.
+
+## Automatização de pagamentos
+O usuário pode definir uma data de início para um pagamento regular de n em n dias que será executado de forma automática no servidor.
+
+##
