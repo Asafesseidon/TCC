@@ -11,42 +11,39 @@ Possibilitar a visualização do seu saldo de cafés
 # RF04 Transferências 
 Transferências de café entre dois usuários
 
-# RF05 Investimentos em cafezais
+# RF05 Cadastro de investimentos pelos donos de cafezais
+Os donos de cafezais poderam pedir para que o gerente cadastre um fundo imobiliário que represente sua fazenda
+
+# RF06 Investimentos em cafezais
 Investimentos em fazendas de café
 
-# RF06 Validação de dados fornecidos 
-Conferir os dados fornecidos pelo usuário para confirmar a veracidade de suas informações
-
-# RF07 Gerenciamento de senhas 
-Alteração e gerenciamentos das senhas de login daquela conta
-
-# RF08 Gerenciamento de usuário 
-Criação, alteração ou exclusão dos logins naquela conta 
-
-# RF09 Empréstimos 
-Realização de empréstimos através do banco
-
-# RF10 Gerenciamento via Admin 
+# RF07 Gerenciamento via Admin 
 Realização de Gerenciamentos dos usuários via admin
 
-# RF11 Buscar consultar usuários 
+# RF08 Gerenciamento de senhas 
+Alteração e gerenciamentos das senhas de login daquela conta
+
+# RF09 Buscar consultar usuários 
+
+# RF10 Gerenciamento de usuário 
+Criação, alteração ou exclusão dos logins naquela conta 
+
+# RF11 Supervisionamento do saldo de café
+Supervisão do gasto do seu café ao longo do tempo
 
 
-# RF12 Notificação via email 
+# RF12 Empréstimos 
+Realização de empréstimos através do banco
+
+# RF13 Notificação via email 
 Notificar os usuários envolvidos em uma transação quando ela é realizada, via mensagens ao e-mail de ambas as partes
 
-# RF13 Desconto automático de imposto 
+# RF14 Desconto automático de imposto 
 
-# RF14 Automatização de pagamentos 
-
-# RF15 Supervisionamento do saldo de café
-Supervisão do gasto do seu café ao longo do tempo
+# RF15 Automatização de pagamentos 
 
 # RF16 Categorização do unidade monetária
 Divisão dos gastos do seu dinheiro em porções nomeadas e com porcentagens do seu café
-
-# RF17 Cadastro de investimentos pelos donos de cafezais
-Os donos de cafezais poderam pedir para que o gerente cadastre um fundo imobiliário que represente sua fazenda
 
  ## Requisitos não-funcionais
 
@@ -55,15 +52,17 @@ Os donos de cafezais poderam pedir para que o gerente cadastre um fundo imobili�
 Garantir que a aplicação seja responsiva em todos os principais dispositivos que ela será utilizada 
 # RNF02 Estrutura padronizada, funcional e facilidade de uso 
 Garantir que a estrutura visual do site seja padronizada e de facil entendimento ao usuário
-# RNF03 Acessibilidade
+# RF03 Validação de dados fornecidos 
+Conferir os dados fornecidos pelo usuário para confirmar a veracidade de suas informações
+# RNF04 Acessibilidade
 Garantir o acesso a aplicação para pessoas com deficiência
-# RFN04 Segurança
+# RFN05 Segurança
 Garantir a integridade e funcionabilidade em todos os casos de usos, livre de bugs e vazamentos não intenconais de dados dos usuários
-# RFN05 Otimização de tempo de execução 
+# RFN06 Otimização de tempo de execução 
 Garantir a velocidade de execução e de desempenho do código
-# RFN06 Legibilidade do código 
+# RFN07 Legibilidade do código 
 Garantir a facilidade de compreensão do código de café
-# RFN07 Criptografia 
+# RFN08 Criptografia 
 Utilização de criptografias baseada no movimento do fluído café
-# RFN08 Informações sobre o Banco 
+# RFN09 Informações sobre o Banco 
 Exposição das informações públicas dos criadores do banco
