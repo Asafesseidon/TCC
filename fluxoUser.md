@@ -29,3 +29,7 @@ Nessa aba o usuário poderá escolher o investimento o qual deseja, e vizualizar
 
 ## Gerenciamento via Admin
 O gerente poderá fazer o gerenciamento de outros admin, e de usuário podendo executar o cancelamento de contas, edição de contas, e cadastramento de contas.
+
+## Gerenciamento de senhas
+O usuário poderá pedir a alteração de sua senha, desde que esteja cadastrado com a conta em seu celular.
+
