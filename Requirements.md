@@ -45,6 +45,9 @@ Supervisão do gasto do seu café ao longo do tempo
 # RF16 Categorização do unidade monetária
 Divisão dos gastos do seu dinheiro em porções nomeadas e com porcentagens do seu café
 
+# RF17 Cadastro de investimentos pelos donos de cafezais
+Os donos de cafezais poderam pedir para que o gerente cadastre um fundo imobiliário que represente sua fazenda
+
  ## Requisitos não-funcionais
 
 
